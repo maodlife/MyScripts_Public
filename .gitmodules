@@ -1,0 +1,3 @@
+[submodule "ConvertComicFolderToZip"]
+	path = ConvertComicFolderToZip
+	url = https://github.com/maodlife/ConvertComicFolderToZip.git
